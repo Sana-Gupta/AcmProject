@@ -1,4 +1,4 @@
-# AcmProject
+# AcmProject_summerworkshop
 #Leaf Disease detection with CNN algorithm using keras
  
 In this we have three basic steps: Image Pre-processing and analysis, Feature Extraction and Recognition of plant disease. 
